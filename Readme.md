@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Азиз Камбаров](https://up.htmlacademy.ru/htmlcss/30/user/1692709).
-* Наставник: `Неизвестно`.
+* Наставник: [Магомед Кандаев](https://htmlacademy.ru/profile/magomedkandaev).
 
 ---
 
